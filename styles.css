@@ -1,0 +1,124 @@
+firstImage {
+    width:850px;
+    position: relative; left:655px;
+    
+}
+
+.endhit{display:none;}
+
+.hitback{display:none;}
+
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/volleyball-ball-graphic-seamless-pattern-vector-illustration-ideal-wallpaper-packaging-fabric-textile-wrapping-paper-design-122843042.jpg");
+  background-color:#e6b3ff;
+    text-align:center;
+}
+
+.ChicagosUntouchables{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+
+
+h1{border-style: ridge;
+border-color: #b84dff;
+background-color:#cc80ff;
+}
+
+.chicago{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+.untouchables{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+.Story-Ending-Yes{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+.Story-Ending-No{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+.yes-button{
+    width:100px;
+    text-shadow: 2px 2px 5px blue;
+    color: white;
+    background-color:#f1b9dc;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #a781ff; /* Purple */
+    font-family:monospace;
+}
+
+
+.second-button {
+    width:200px;
+    text-shadow: 2px 2px 5px blue;
+    color: white;
+    background-color:#f1b9dc;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #a781ff; /* Purple */
+    font-family:monospace;
+}
+
+.third-button {
+    width:200px;
+    text-shadow: 2px 2px 5px blue;
+    color: white;
+    background-color:#f1b9dc;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #a781ff; /* Purple */
+    font-family:monospace;
+}
+
+.end-button {
+    width:200px;
+    text-shadow: 2px 2px 5px blue;
+    color: white;
+    background-color:#f1b9dc;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #a781ff; /* Purple */
+    font-family:monospace;
+}
+
+.theendbutton {
+    width:200px;
+    text-shadow: 2px 2px 5px blue;
+    color: white;
+    background-color:#f1b9dc;
+    border-style: ridge;
+    height:40px;
+    border: 2px solid #a781ff; /* Purple */
+    font-family:monospace;
+}
+
+
+h2{
+    color:white;
+    font-family:serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
